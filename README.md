@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -39,10 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
