@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0066-plus-one) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0011-container-with-most-water) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Stack
 |  |
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0525-contiguous-array) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
