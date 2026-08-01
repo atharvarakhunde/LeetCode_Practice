@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0011-container-with-most-water) |
+| [0036-valid-sudoku](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0066-plus-one) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0219-contains-duplicate-ii) |
@@ -97,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0011-container-with-most-water) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
