@@ -1,7 +1,7 @@
 class Solution {
     public List<Integer> findMissingElements(int[] nums) {
-        Set<Integer> set = new LinkedHashSet<>(nums.length);
-        // List<Integer> list = new ArrayList<>();
+        Set<Integer> set = new HashSet<>(nums.length);
+        List<Integer> list = new ArrayList<>();
         int min = nums[0];
         int max = nums[0];
         for (int i = 0 ; i < nums.length ; i++){
@@ -9,25 +9,11 @@ class Solution {
             min = Math.min(min,nums[i]);
             max = Math.max(max,nums[i]);
         }
-        
-        while(min<=max){
-            if(set.contains(min)){
-                set.remove(min);
-                
-            }else{
-                set.add(min);
+        for(int i=min; i<=max; i++){
+            if(!set.contains(i)){
+                list.add(i);
             }
-            min++;
         }
-
-        // for(int i=min; i<=max; i++){
-        //     if(!set.contains(i)){
-        //         list.add(i);
-        //     }
-        // }
-        // return list;
-
-        return new ArrayList<>(set);
-
+        return list;
     }
 }
