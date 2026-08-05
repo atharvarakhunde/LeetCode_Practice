@@ -84,10 +84,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0451-sort-characters-by-frequency) |
+| [2390-removing-stars-from-a-string](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0412-fizz-buzz) |
+| [2390-removing-stars-from-a-string](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/2390-removing-stars-from-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2390-removing-stars-from-a-string](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
