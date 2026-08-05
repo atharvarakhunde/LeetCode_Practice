@@ -25,16 +25,6 @@ class Solution {
             }
         } 
         
-        if (str1.size() != str2.size()) {
-            return false;
-        }
-
-        while (!str1.isEmpty()) {
-            if (str1.pop() != str2.pop()) {
-                return false;
-            }
-        }
-
-        return true;
+        return str1.equals(str2);
     }
 }
