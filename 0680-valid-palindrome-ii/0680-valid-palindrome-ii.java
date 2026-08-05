@@ -8,13 +8,13 @@ class Solution {
                 left++;
                 right--;
             } else {
-                return isPalindromeRange(s, left + 1, right) || isPalindromeRange(s, left, right - 1);
+                return isPalindrome(s, left + 1, right) || isPalindrome(s, left, right - 1);
             }
         }
         return true;
     }
 
-    private boolean isPalindromeRange(String s, int left, int right) {
+    private boolean isPalindrome(String s, int left, int right) {
         while (left < right) {
             if (s.charAt(left) != s.charAt(right)) {
                 return false;
