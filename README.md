@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0680-valid-palindrome-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -194,4 +197,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/3345-smallest-divisible-digit-product-i) |
+## Backtracking
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Number Theory
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
