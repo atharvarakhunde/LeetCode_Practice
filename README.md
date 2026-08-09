@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0507-perfect-number) |
 | [0877-stone-game](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1140-stone-game-ii](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0877-stone-game](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1406-stone-game-iii) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1991-find-the-middle-index-in-array](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1991-find-the-middle-index-in-array) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0525-contiguous-array](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0724-find-pivot-index) |
+| [1140-stone-game-ii](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1140-stone-game-ii) |
 | [1991-find-the-middle-index-in-array](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1991-find-the-middle-index-in-array) |
 ## Greedy
 |  |
@@ -168,20 +171,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1406-stone-game-iii) |
 ## Depth-First Search
 |  |
