@@ -1,4 +1,5 @@
 # Write your MySQL query statement below
+-- for count specific column rows we use the count after the group by clause 
 SELECT 
     customer_number
 FROM
