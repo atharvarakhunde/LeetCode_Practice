@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0877-stone-game](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0877-stone-game) |
+| [1004-max-consecutive-ones-iii](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0162-find-peak-element](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0268-missing-number) |
+| [1004-max-consecutive-ones-iii](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Bit Manipulation
 |  |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Two Pointers
 |  |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1140-stone-game-ii) |
 | [1991-find-the-middle-index-in-array](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1991-find-the-middle-index-in-array) |
 ## Greedy
