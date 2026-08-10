@@ -1,3 +1,4 @@
+//In this code we just use 2 pointer approch and just skip the element who not matching the sum not removing them from array we just skip them 
 class Solution {
     public int maxOperations(int[] nums, int k) {
         Arrays.sort(nums);
