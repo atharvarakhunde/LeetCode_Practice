@@ -5,7 +5,6 @@ class Solution {
         int right = nums.length-1;
         int count = 0;
         while (left < right){
-
             int sum = nums[left] + nums[right];
             if(sum == k){
                 count++;
