@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1991-find-the-middle-index-in-array](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1991-find-the-middle-index-in-array) |
 | [3731-find-missing-elements](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0525-contiguous-array](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0525-contiguous-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3731-find-missing-elements](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3731-find-missing-elements](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0844-backspace-string-compare) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1768-merge-strings-alternately) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Stack
