@@ -1,33 +1,20 @@
 class Solution {
     public List<List<Integer>> findDifference(int[] nums1, int[] nums2) {
-       List<List<Integer>> list = new ArrayList<>();
-        list.add(new ArrayList<>());
-        list.add(new ArrayList<>());
+        Set<Integer> m1 = new HashSet<>();
+        Set<Integer> m2 = new HashSet<>();
+        for(int n : nums1) m1.add(n);
+        for(int n : nums2) m2.add(n);
+        List<Integer> ans1 = new ArrayList<>();
+        List<Integer> ans2 = new ArrayList<>();
+        for(int n : m1){
+            if(!m2.contains(n)) ans1.add(n);
+        }
 
-        for(int i = 0 ; i < nums1.length;i++){
-            boolean b = false;
-            for(int j = 0 ; j< nums2.length;j++){
-                if(nums1[i]==nums2[j]){
-                    b= true ;
-                    break;
-                }
-            }
-            if (!b && !list.get(0).contains(nums1[i])) {
-                list.get(0).add(nums1[i]);
-            }
+        for(int n : m2){
+            if(!m1.contains(n)) ans2.add(n);
         }
-        for(int i = 0 ; i < nums2.length;i++){
-            boolean b = false;
-            for(int j = 0 ; j< nums1.length;j++){
-                if(nums2[i]==nums1[j]){
-                    b= true ;
-                    break;
-                }
-            }
-              if (!b && !list.get(1).contains(nums2[i])) {
-                list.get(1).add(nums2[i]);
-            }
-        }
-        return list ;
+
+        List<List<Integer>> ans = Arrays.asList(ans1,ans2);
+        return ans;
     }
 }
