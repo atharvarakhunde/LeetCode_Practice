@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0002-add-two-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1768-merge-strings-alternately) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Stack
 |  |
