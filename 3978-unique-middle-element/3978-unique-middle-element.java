@@ -4,10 +4,8 @@ class Solution {
         int mid = nums[index];
 
         for(int i =0 ; i< nums.length ; i++){
-            if(i==index){
-                continue;
-            }
-            if(nums[i] ==mid){
+           
+            if(nums[i] ==mid && i!= index){
                 return false;
             }
         }
