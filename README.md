@@ -328,4 +328,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Design
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0933-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
