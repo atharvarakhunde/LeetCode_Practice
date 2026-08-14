@@ -11,8 +11,8 @@ class Solution {
                 left++;
             }
             right++;
-            max = Math.max(max, right - left + 1);
+            max = Math.max(max, right - left );
         }
-        return --max;
+        return max;
     }
 }
