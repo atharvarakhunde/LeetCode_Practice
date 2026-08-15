@@ -13,11 +13,16 @@ class Solution {
         ListNode prev = null;
         ListNode curr = head;
         while(curr != null){
-            ListNode nextTemp = curr.next;
-            curr.next = prev;
-            prev = curr ;
-            curr = nextTemp;
+           ListNode temp = curr.next;
+           curr.next = prev ;
+           prev = curr;
+           curr = temp;
+
         }
-        return prev ;
+        return prev ; 
     }
 }
+// 1-> 2-> 3->
+// first we store 2 
+// then we assign 1-> null
+// then we rotate it until end 
