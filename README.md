@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1406-stone-game-iii](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1441-build-an-array-with-stack-operations](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1470-shuffle-the-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1512-number-of-good-pairs](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1512-number-of-good-pairs) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0844-backspace-string-compare) |
+| [1441-build-an-array-with-stack-operations](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1929-concatenation-of-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/2390-removing-stars-from-a-string) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0844-backspace-string-compare) |
+| [1441-build-an-array-with-stack-operations](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1441-build-an-array-with-stack-operations) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/2390-removing-stars-from-a-string) |
