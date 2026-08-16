@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1406-stone-game-iii) |
 | [1512-number-of-good-pairs](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1512-number-of-good-pairs) |
+| [2029-stone-game-ix](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1991-find-the-middle-index-in-array) |
+| [2029-stone-game-ix](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/2352-equal-row-and-column-pairs) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0649-dota2-senate](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0680-valid-palindrome-ii) |
+| [2029-stone-game-ix](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [1512-number-of-good-pairs](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1512-number-of-good-pairs) |
 | [1657-determine-if-two-strings-are-close](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1657-determine-if-two-strings-are-close) |
+| [2029-stone-game-ix](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/2029-stone-game-ix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -271,18 +275,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/2029-stone-game-ix) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -372,4 +379,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0202-happy-number) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
