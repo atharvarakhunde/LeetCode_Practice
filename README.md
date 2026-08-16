@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1732-find-the-highest-altitude) |
+| [1929-concatenation-of-array](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1991-find-the-middle-index-in-array) |
 | [2029-stone-game-ix](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0844-backspace-string-compare) |
+| [1929-concatenation-of-array](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1929-concatenation-of-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/2390-removing-stars-from-a-string) |
 ## Sliding Window
