@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1140-stone-game-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1207-unique-number-of-occurrences) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1406-stone-game-iii](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1470-shuffle-the-array) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0525-contiguous-array) |
 | [0645-set-mismatch](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0645-set-mismatch) |
 | [1207-unique-number-of-occurrences](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1207-unique-number-of-occurrences) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1512-number-of-good-pairs) |
 | [1657-determine-if-two-strings-are-close](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1657-determine-if-two-strings-are-close](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -405,4 +408,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0872-leaf-similar-trees) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
