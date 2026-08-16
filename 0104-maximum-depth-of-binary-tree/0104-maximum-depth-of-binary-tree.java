@@ -15,17 +15,14 @@
  */
 class Solution {
     public int maxDepth(TreeNode root) {
-        // Base case: if the tree is empty, the depth is 0
+
         if (root == null) {
             return 0;
         }
-        
-        // Recursively find the depth of the left and right subtrees
-        int leftDepth = maxDepth(root.left);
-        int rightDepth = maxDepth(root.right);
-        
-        // The maximum depth is the greater of the two depths, 
-        // plus 1 to account for the current root node
-        return Math.max(leftDepth, rightDepth) + 1;
+
+        int left = maxDepth(root.left);
+        int right = maxDepth(root.right);
+
+        return Math.max(left, right) + 1;
     }
 }
