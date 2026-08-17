@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1406-stone-game-iii) |
 | [1512-number-of-good-pairs](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1512-number-of-good-pairs) |
+| [1563-stone-game-v](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1470-shuffle-the-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1512-number-of-good-pairs](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1512-number-of-good-pairs) |
+| [1563-stone-game-v](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1563-stone-game-v) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1732-find-the-highest-altitude) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1563-stone-game-v](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Game Theory
 |  |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
