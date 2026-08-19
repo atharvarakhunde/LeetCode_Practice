@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0268-missing-number) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0075-sort-colors) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0217-contains-duplicate) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0394-decode-string](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0844-backspace-string-compare) |
