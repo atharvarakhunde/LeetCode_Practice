@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1140-stone-game-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1386-cinema-seat-allocation](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1441-build-an-array-with-stack-operations](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1441-build-an-array-with-stack-operations) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0645-set-mismatch) |
 | [1207-unique-number-of-occurrences](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1386-cinema-seat-allocation](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1386-cinema-seat-allocation) |
 | [1512-number-of-good-pairs](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1512-number-of-good-pairs) |
 | [1657-determine-if-two-strings-are-close](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0645-set-mismatch) |
+| [1386-cinema-seat-allocation](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Sorting
 |  |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0649-dota2-senate](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0680-valid-palindrome-ii) |
+| [1386-cinema-seat-allocation](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
