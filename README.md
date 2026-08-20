@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0525-contiguous-array) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0646-maximum-length-of-pair-chain) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0334-increasing-triplet-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0605-can-place-flowers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0649-dota2-senate](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0649-dota2-senate) |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0392-is-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0877-stone-game](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1140-stone-game-ii) |
