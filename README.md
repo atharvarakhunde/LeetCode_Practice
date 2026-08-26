@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0525-contiguous-array) |
 | [0605-can-place-flowers](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0605-can-place-flowers) |
+| [0636-exclusive-time-of-functions](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0636-exclusive-time-of-functions) |
 | [0643-maximum-average-subarray-i](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0646-maximum-length-of-pair-chain) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0394-decode-string](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0394-decode-string) |
+| [0636-exclusive-time-of-functions](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0636-exclusive-time-of-functions) |
 | [0735-asteroid-collision](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0844-backspace-string-compare) |
 | [1441-build-an-array-with-stack-operations](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1441-build-an-array-with-stack-operations) |
