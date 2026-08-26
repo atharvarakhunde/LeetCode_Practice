@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0724-find-pivot-index](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0739-daily-temperatures) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0877-stone-game](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1004-max-consecutive-ones-iii) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0394-decode-string) |
 | [0636-exclusive-time-of-functions](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0636-exclusive-time-of-functions) |
 | [0735-asteroid-collision](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0844-backspace-string-compare) |
 | [1441-build-an-array-with-stack-operations](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Prefix Sum
