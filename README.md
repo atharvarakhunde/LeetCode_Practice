@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [1004-max-consecutive-ones-iii](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3731-find-missing-elements](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1563-stone-game-v](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/atharvarakhunde/LeetCode_Practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Game Theory
 |  |
 | ------- |
